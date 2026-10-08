@@ -19,10 +19,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Building**: Full-stack web apps, e-commerce platforms, and native macOS desktop tools.
-- ⚡ **Specialties**: Interactive frontends, high-throughput APIs, cloud databases (Supabase, MySQL), and Swift utilities.
-- 🌐 **Live Projects**: [Portfolio](https://sohanahammed14.vercel.app/) • [Sohan Tech](https://sohantech.vercel.app/)
-- 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/sohanahamed14/) • [YouTube](https://www.youtube.com/@sohanahamed14)
+- 🔭 **Building**: Full-stack web apps, e-commerce platforms, Android solutions, and native macOS utilities.
+- ⚡ **Specialties**: Interactive web frontends, high-throughput APIs, cloud databases (Supabase, MySQL), and native systems programming (Swift, Kotlin).
+- 🌐 **Live Deployments**: [Portfolio](https://sohanahammed14.vercel.app/) • [Sohan Tech](https://sohantech.vercel.app/) • [Tools Hub](https://tools-hub014.pages.dev) • [Digital Notepad](https://digital-notepad.pages.dev)
+- 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/sohanahamed14/) • [YouTube](https://www.youtube.com/@sohanahamed14) • [Facebook](https://www.facebook.com/sohan014)
 
 ---
 
@@ -32,9 +32,9 @@
 | :--- | :--- | :--- | :--- |
 | **[Sohan Portfolio](https://github.com/sohanahamed14/Sohan-Portfolio)** | Cinematic portfolio website with high-performance canvas scrollytelling and modern responsive design. | `React` `JavaScript` `CSS3` `Supabase` | [🌐 Live Demo](https://sohanahammed14.vercel.app/) • [📦 Code](https://github.com/sohanahamed14/Sohan-Portfolio) |
 | **[Sohan Tech Store](https://github.com/sohanahamed14/Sohan-Tech)** | Full e-commerce storefront for tech devices, laptops, chargers, and drones with cloud database integration. | `JavaScript` `Supabase` `HTML5/CSS3` | [🌐 Live Demo](https://sohantech.vercel.app/) • [📦 Code](https://github.com/sohanahamed14/Sohan-Tech) |
+| **[Tools-Hub](https://github.com/sohanahamed14/Tools-Hub)** | All-in-one viral creator studio with audio dynamics DSP, 9:16 video reframe, and image clean tools. | `Web Audio API` `Canvas` `JavaScript` | [🌐 Live Demo](https://tools-hub014.pages.dev) • [📦 Code](https://github.com/sohanahamed14/Tools-Hub) |
+| **[Digital-Notepad](https://github.com/sohanahamed14/Digital-Notepad)** | Feature-rich digital notebook with biometric vault, E2E encrypted sync, audio notes, and canvas sketches. | `Kotlin` `Jetpack Compose` `Room SQLite` | [🌐 Website](https://digital-notepad.pages.dev) • [📦 Code](https://github.com/sohanahamed14/Digital-Notepad) |
 | **[Mac-Tools (NetSpeed)](https://github.com/sohanahamed14/Mac-Tools)** | Native macOS menu bar network monitor with a dynamic speedometer gauge, live rate sampling, and 30-day usage history. | `Swift` `AppKit` `LaunchAgent` | [📦 Repo & 1-Line Install](https://github.com/sohanahamed14/Mac-Tools) |
-| **[Tools-Hub](https://github.com/sohanahamed14/Tools-Hub)** | All-in-one viral creator studio with audio dynamics DSP, 9:16 video reframe, and image clean tools. | `Web Audio API` `Canvas` `JavaScript` | [📦 Code](https://github.com/sohanahamed14/Tools-Hub) |
-| **[Digital-Notepad](https://github.com/sohanahamed14/Digital-Notepad)** | Feature-rich digital notepad with persistent local storage and responsive distraction-free interface. | `JavaScript` `CSS3` `LocalStorage` | [📦 Code](https://github.com/sohanahamed14/Digital-Notepad) |
 
 ---
 
@@ -43,9 +43,10 @@
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <br/>
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -63,6 +64,7 @@
   <br/>
   <!-- Hosting & Tools -->
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Pages" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
